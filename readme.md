@@ -1,7 +1,7 @@
 # ⚡ Case Study: Pokémon Center Localization (PT-BR)
 
 ## 🎯 Objective
-To demonstrate a strategic localization and UX approach for the **Pokémon Center** e-commerce platform, specifically targeting the Brazilian market. This study addresses the current **"Experience Gap"** between brand engagement and retail conversion for Portuguese-speaking fans.
+To demonstrate a strategic localization and UX approach for the **Pokémon Center Landing Page**. This "Vertical Slice" study addresses the **"Experience Gap"** between brand engagement and retail conversion for Portuguese-speaking fans, focusing on the most critical entry point of the e-commerce journey.
 
 ---
 
@@ -35,7 +35,7 @@ Strategic balance between translating functional terms (e.g., *"Figures"* to *"C
 | **Documentation** | [Context & Bilingual](https://github.com/pradoprojects/pokemon-center-ptbr/tree/main/Context%20and%20Bilingual) | Detailed editorial rationale, LQA decisions, and MemoQ bilingual files. |
 
 > [!NOTE]
-> Due to the nature of static mirrors hosted on GitHub, some dynamic elements (such as submenus or real-time filters) may not trigger as they would on the native server infrastructure. However, **all localized strings and hidden elements** are fully accessible and documented within the **Bilingual file** provided in the repository.
+> This study focuses on the **Main Landing Page** as a primary touchpoint for user conversion. Due to the nature of static mirrors, some dynamic elements (such as submenus) may not trigger as they would on the native server infrastructure. However, **all localized strings and hidden elements** are fully documented within the **Bilingual file**. Links leading away from the Landing Page will redirect to the live (EN-US) production site.
 
 ---
 **Localization Specialist:** Marllos Paiva Prado
