@@ -5,7 +5,7 @@ To demonstrate a strategic localization and UX approach for the **Pokémon Cente
 
 ---
 
-## 💡 The Business Case: The "Brazilian Gap"
+## 💡 Business Case: The "Brazilian Gap"
 
 * **Current Landscape:** While TPCi maintains a strong digital presence in Brazil via `pokemon.com/br`, the official retail arm (`pokemoncenter.com`) lacks PT-BR localization and regional support for South America.
 * **Strategic Opportunity:** Thousands of high-purchasing-power Brazilian fans travel annually to the US, UK, and Germany (regions where the Pokémon Center operates). The **2026 World Cup** in the USA will significantly amplify this foot traffic.
