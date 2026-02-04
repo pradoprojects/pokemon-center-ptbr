@@ -1,15 +1,15 @@
 # Context & Bilingual Files
 
-This directory contains the core linguistic assets used in the **Pokémon Center Strategic Localization Case Study**. These documents showcase the workflow from source analysis to the final bilingual review.
+This directory contains the linguistic assets and documentation for the **Pokémon Center Strategic Localization Case Study**. These files demonstrate the transition from source analysis to the final localized output.
 
 ### 📋 Documentation
 
 * **[Bilingual Translation Table (EN-PTBR)](Bilingual-Export-Pokemon-Center-EN-PTBR.pdf)**
-    * Full export of the localized strings, showcasing the final PT-BR version alongside the original EN-US source.
-* **[Context Notes - EN-US](Context-Notes-TPC-ENUS.pdf)**
-    * Source analysis and technical observations regarding UI/UX constraints and brand guidelines.
-* **[Notas de Contexto - PT-BR](Notas-Contexto-TPC-PTBR.pdf)**
-    * Detailed linguistic justifications for specific terms, cultural adaptations, and Pokémon TCG/official terminology alignment.
+    * The complete localized string set, showcasing the source EN-US text alongside the PT-BR translation.
+* **[Context Notes & Rationale - EN-US](Context-Notes-TPC-ENUS.pdf)**
+    * English version of the document detailing the linguistic choices, cultural adaptations, and TCG terminology alignment.
+* **[Notas de Contexto e Justificativas - PT-BR](Notas-Contexto-TPC-PTBR.pdf)**
+    * Versão em Português do documento detalhando as escolhas linguísticas, adaptações culturais e alinhamento com a terminologia oficial.
 
 ---
 [← Back to Main Repository](../README.md)
