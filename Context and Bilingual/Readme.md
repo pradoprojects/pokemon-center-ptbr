@@ -12,4 +12,4 @@ This directory contains the linguistic assets and documentation for the **Pokém
     * Versão em Português do documento detalhando as escolhas linguísticas, adaptações culturais e alinhamento com a terminologia oficial.
 
 ---
-[← Back to Main Repository](../README.md)
+[← Back to Main Repository](https://github.com/pradoprojects/pokemon-center-ptbr)
