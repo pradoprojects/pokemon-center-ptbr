@@ -42,7 +42,7 @@ Strategic balance between translating functional terms (e.g., *"Figures"* to *"C
 ## 🎬 Behind the Scenes
 
 <p align="center">
-  <img src="Pictures/Pokephoto1.jpg" alt="Creative workspace during the Pokémon Center localization process" width="900" />
+  <img src="Pictures/Pokephoto1.JPG" alt="Creative workspace during the Pokémon Center localization process" width="900" />
 </p>
 
 <p align="center">
