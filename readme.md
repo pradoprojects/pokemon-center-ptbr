@@ -6,12 +6,6 @@ To demonstrate a strategic localization and UX approach for the **Pokémon Cente
 <div style="display: flex; gap: 24px; justify-content: center; margin: 30px 0;">
   <div style="flex: 1; text-align: center;">
     <img src="Pictures/Pokephoto1.jpg" alt="Original EN-US Version" style="width: 20%; max-width: 600px; border-radius: 10px;" />
-    
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="Pictures/Pokephoto2.jpg" alt="Localized PT-BR Version" style="width: 20%; max-width: 600px; border-radius: 10px;" />
-    
-  </div>
 </div>
 
 
