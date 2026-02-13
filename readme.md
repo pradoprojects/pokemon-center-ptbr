@@ -3,12 +3,6 @@
 ## 🎯 Objective
 To demonstrate a strategic localization and UX approach for the **Pokémon Center Landing Page**. This "Vertical Slice" study addresses the **"Experience Gap"** between brand engagement and retail conversion for Portuguese-speaking fans, focusing on the most critical entry point of the e-commerce journey.
 
-<div style="display: flex; gap: 24px; justify-content: center; margin: 30px 0;">
-  <div style="flex: 1; text-align: center;">
-    <img src="Pictures/Pokephoto1.jpg" alt="Original EN-US Version" style="width: 20%; max-width: 600px; border-radius: 10px;" />
-</div>
-
-
 ---
 
 ## 💡 Business Case: The "Brazilian Gap"
@@ -42,6 +36,18 @@ Strategic balance between translating functional terms (e.g., *"Figures"* to *"C
 
 > [!NOTE]
 > This study focuses on the **Main Landing Page** as a primary touchpoint for user conversion. Due to the nature of static mirrors, some dynamic elements (such as submenus) may not trigger as they would on the native server infrastructure. However, **all localized strings and hidden elements** are fully documented within the **Bilingual file**. Links leading away from the Landing Page will redirect to the live (EN-US) production site.
+
+---
+
+## 🎬 Behind the Scenes
+
+<p align="center">
+  <img src="Pictures/Pokephoto1.jpg" alt="Creative workspace during the Pokémon Center localization process" width="900" />
+</p>
+
+<p align="center">
+  <em>Creative workspace and brand references during the localization process.</em>
+</p>
 
 ---
 **Localization Specialist:** Marllos Paiva Prado
